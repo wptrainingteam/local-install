@@ -1,45 +1,157 @@
 # Local Install
 
-## <span style="color: #000000">Description</span>
+## Description
 
-<span style="color: #000000">In this lesson you will learn how to install WordPress locally on your own computer.</span>
+In this lesson you will learn how to install WordPress locally on your own computer.
 
-## <span style="color: #000000">Objectives</span>
+## Objectives
 
-<span style="color: #000000">After completing this lesson, you will be able to:</span>
+After completing this lesson, participants will be able to:
 
-*   <span style="color: #000000">Download, install, and configure MAMP.</span>
-*   <span style="color: #000000">Start MAMP servers.</span>
-*   <span style="color: #000000">Create a database.</span>
-*   <span style="color: #000000">Download and install WordPress.</span>
+*   Download, install, and configure MAMP.
+*   Start MAMP servers.
+*   Create a database.
+*   Download and install WordPress.
 
-## <span style="color: #000000">Prerequisite Skills</span>
+## Target Audience
 
-<span style="color: #000000">You will be better equipped to work through this lesson if you have:</span>
+Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
 
-*   <span style="color: #000000">Experience downloading and installing programs on your computer.</span>
-*   <span style="color: #000000">Administrative access to your local machine.</span>
-*   <span style="color: #000000">Familiarity with the file system of your computer.</span>
+* [ ] Users
+* [ ] Designers
+* [ ] Developers
+* [ ] Speakers
+* [ ] All
 
-## <span style="color: #000000">Assets</span>
+## Experience Level
 
-*   <span style="color: #000000">[MAMP](https://www.mamp.info/en/)</span>
-*   <span style="color: #000000">[WordPress](https://wordpress.org/download/)</span>
+How much experience would a participant need to get the most from this lesson?
 
-## <span style="color: #000000">Screening Questions</span>
+* [ ] Beginner
+* [ ] Intermediate
+* [ ] Advanced
+* [ ] Any
 
-*   <span style="color: #000000">Have you ever used WordPress?</span>
-*   <span style="color: #000000">Have you created posts and pages in WordPress?</span>
-*   <span style="color: #000000">Have you changed a theme in WordPress?</span>
-*   <span style="color: #000000">Have you ever wanted to look under the hood of WordPress?</span>
+## Type of Instruction
 
-## <span style="color: #000000">Teacher Notes</span>
+Which strategies will be used for this lesson plan? Choose all that apply.
 
-*   <span style="color: #000000">Ahead of the lesson, make sure you take a look at your own computer setup. If you have MAMP or MAMP Pro already installed on your machine, you may want to run this demo on a virtual box to avoid conflicts with existing software and local sites that you may want to keep on your machine.</span>
-*   <span style="color: #000000">Sometimes it can take a while to download large files like MAMP or WordPress core. You may want to have a copy of MAMP and the current version of WordPress downloaded and stored on a thumb drive that can be passed around the class before you start the lesson. In the context of the demo, you would still show where to download these files, but would skip the actual live download.</span>
-*   <span style="color: #000000">MAMP is updated quite often. Please be sure to walk through the lesson plan with a fresh install to be sure it is still up to date.</span>
+* [ ] Demonstration
+* [ ] Discussion
+* [ ] Exercises
+* [ ] Feedback
+* [ ] Lecture (Presentation)
+* [ ] Show & Tell
+* [ ] Tutorial
 
-## <span style="color: #000000">Hands-on Walkthrough</span>
+## Time Estimate (Duration)
+
+How long will it take to teach this lesson (in minutes)?
+
+____ minutes
+
+## Prerequisite Skills
+
+Participants will get the most from this lesson if they have familiarity with:
+
+*   Experience downloading and installing programs on your computer.
+*   Administrative access to your local machine.
+*   Familiarity with the file system of your computer.
+
+## Readiness Questions
+
+*   Have you ever used WordPress?
+*   Have you created posts and pages in WordPress?
+*   Have you changed a theme in WordPress?
+*   Have you ever wanted to look under the hood of WordPress?
+
+## Materials Needed
+
+*   [MAMP](https://www.mamp.info/en/)
+*   [WordPress](https://wordpress.org/download/)
+> *   [Slides](https://rawgit.com/wptrainingteam/repo-name/dev/slides/index.html) (included in this repo)
+
+## Notes for the Instructor
+
+*   Ahead of the lesson, make sure you take a look at your own computer setup. If you have MAMP or MAMP Pro already installed on your machine, you may want to run this demo on a virtual box to avoid conflicts with existing software and local sites that you may want to keep on your machine.
+*   Sometimes it can take a while to download large files like MAMP or WordPress core. You may want to have a copy of MAMP and the current version of WordPress downloaded and stored on a thumb drive that can be passed around the class before you start the lesson. In the context of the demo, you would still show where to download these files, but would skip the actual live download.
+*   MAMP is updated quite often. Please be sure to walk through the lesson plan with a fresh install to be sure it is still up to date.
+
+## Have You Thought About...?
+
+* Challenge 1
+* Challenge 2
+
+> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+>
+> _For example:_
+>
+> *  What if there’s no internet available?
+> *  What if there’s no projector available?
+> *  What if a participant doesn’t has a WordPress site to work with?
+> *  What if there aren’t enough computers for everyone?
+> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+
+## Lesson Overview
+
+* First do this
+* Then move on to this
+* Finish with this
+
+> The plan for the lesson. Outline form works well.
+>
+> _For example:_
+>
+> * Talk about what a theme is
+> * Demonstrate how to install and activate a theme
+> * Practice exercises to have participants find and install a theme on their own site
+
+## Exercises
+
+**Exercise name**
+
+Short description of what the exercise does and what skills or knowledge it reinforces.
+
+*   Short point or step of the exercise
+*   And another one
+
+> These are short or specific activities that help participants practice certain components of the lesson. They should not be fully scripted exercises, but rather something that participants could do on their own. For example, you can create an exercise based on one step of the Example Lesson.
+
+## Assessment
+
+**What does "MAMP" stand for?**
+
+1.  My Computer, Apple, MySQL, PHP
+2.  My Computer, Apache, MySQL, PHP
+3.  My Apache, MySQL, PHP
+4.  Macintosh, Apple, MySQL, PHP
+
+**Answer:** 3\. Macintosh, Apache, MySQL, PHP
+
+**What is the user name and password for any named local install?**
+
+1.  username: root; password: localhost
+2.  username: localhost; password: localhost
+3.  username: root; password: root
+4.  username: localhost; password: root
+
+**Answer:** 3\. username: root; password: root
+
+**What systems can MAMP run on?**
+
+1.  Macintosh</span>
+2.  Windows</span>
+3.  Macintosh and Windows
+4.  Linux
+5.  Macintosh, Windows and Linux
+
+**Answer:** 3\. Macintosh and Windows
+
+## Additional Resources
+
+* [WordPress Installation Techniques](https://codex.wordpress.org/WordPress_Installation_Techniques) @ Codex
+
+## Example Lesson
 
 <span style="color: #000000">In order to run WordPress locally, you need to have a server. In this lesson, you will learn to set up a server, create a database and install WordPress on your computer.</span>
 
@@ -83,32 +195,6 @@
 *   <span style="color: #000000">Extract the WordPress files in a new location on your computer.</span>
 *   <span style="color: #000000">Run the famous 5 minute install for your new local site.</span>
 
-## <span style="color: #000000">Quiz</span>
+### Lesson Wrap Up
 
-<span style="color: #000000">**What does "MAMP" stand for?**</span>
-
-1.  <span style="color: #000000">My Computer, Apple, MySQL, PHP</span>
-2.  <span style="color: #000000">My Computer, Apache, MySQL, PHP</span>
-3.  <span style="color: #000000">My Apache, MySQL, PHP</span>
-4.  <span style="color: #000000">Macintosh, Apple, MySQL, PHP</span>
-
-<span style="color: #000000">**Answer:** 3\. Macintosh, Apache, MySQL, PHP</span> <span style="color: #000000">**What is the user name and password for any named local install?**</span>
-
-1.  <span style="color: #000000">username: root; password: localhost</span>
-2.  <span style="color: #000000">username: localhost; password: localhost</span>
-3.  <span style="color: #000000">username: root; password: root</span>
-4.  <span style="color: #000000">username: localhost; password: root</span>
-
-<span style="color: #000000">**Answer:** 3\. username: root; password: root</span> <span style="color: #000000">What systems can MAMP run on?</span>
-
-1.  <span style="color: #000000">Macintosh</span>
-2.  <span style="color: #000000">Windows</span>
-3.  <span style="color: #000000">Macintosh and Windows</span>
-4.  <span style="color: #000000">Linux</span>
-5.  <span style="color: #000000">Macintosh, Windows and Linux</span>
-
-<span style="color: #000000">**Answer:** 3\. Macintosh and Windows</span>
-
-## <span style="color: #000000">Additional Resources</span>
-
-<span style="color: #000000">[WordPress Installation Techniques](https://codex.wordpress.org/WordPress_Installation_Techniques) @ Codex</span>
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
