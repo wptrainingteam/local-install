@@ -126,7 +126,7 @@ Short description of what the exercise does and what skills or knowledge it rein
 3.  My Apache, MySQL, PHP
 4.  Macintosh, Apple, MySQL, PHP
 
-**Answer:** 3\. Macintosh, Apache, MySQL, PHP
+**Answer:** 4\. Macintosh, Apache, MySQL, PHP
 
 **What is the user name and password for any named local install?**
 
